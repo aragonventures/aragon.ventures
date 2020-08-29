@@ -154,7 +154,7 @@ For complaints under GDPR more generally, European Union users may lodge complai
 
 ## How can I find out about changes?
 
-This version of Aragon Ventures’s privacy questions and answers took effect August 17th, 2020.
+This version of Aragon Ventures’s privacy questions and answers took effect August 29th, 2020.
 
 Aragon Ventures will post the next version at [https://aragon.ventures/privacy](https://aragon.ventures/privacy). Aragon Ventures may change how it announces changes in future versions of this document.
 
