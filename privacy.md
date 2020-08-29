@@ -71,17 +71,17 @@ Most websites and services hosted by Aragon Ventures reside in OVH’s datacente
 
 ## Does Aragon Ventures comply with the EU General Data Protection Regulation?
 
-Aragon Ventures respects privacy rights under [Regulation (EU) 2016/679](https://web.archive.org/web/20200215071246/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG), the European Union’s General Data Protection Regulation (GDPR). Information that GDPR requires Aragon Ventures to give can be found throughout this document. So can information about specific rights, like [access](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-access), [rectification](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-change), [erasure](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-change), [data portability](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-access), and [objection to automated decision-making](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-automated-decisions).
+Aragon Ventures respects privacy rights under [Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG), the European Union’s General Data Protection Regulation (GDPR). Information that GDPR requires Aragon Ventures to give can be found throughout this document. So can information about specific rights, like [access](#where-can-i-access-data-about-me), [rectification](#how-can-i-change-or-erase-data-about-me), [erasure](#how-can-i-change-or-erase-data-about-me), [data portability](#where-can-i-access-data-about-me), and [objection to automated decision-making](#does-aragon-ventures-make-automated-decisions-about-me).
 
 ## What are my data protection rights?
 
 Aragon Ventures would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
-- **The right to access** – You have the right to request access to your personal data, or copies of your personal data from Aragon Ventures. We may charge you a small fee for providing a copy of your data. In many cases you can view this information yourself, as detailed in our [data access](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-access) section.
-- **The right to rectification** – You have the right to request that Aragon Enterprises correct any information you believe is inaccurate or incomplete. In many cases you can make changes to your account information yourself, as detailed in our [data change](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-change) section below.
-- **The right to erasure** – You have the right to request that Aragon Ventures erase your personal data, under certain conditions. Please see our section on [data erasure](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-change) for details.
+- **The right to access** – You have the right to request access to your personal data, or copies of your personal data from Aragon Ventures. We may charge you a small fee for providing a copy of your data. In many cases you can view this information yourself, as detailed in our [data access](#where-can-i-access-data-about-me) section.
+- **The right to rectification** – You have the right to request that Aragon Enterprises correct any information you believe is inaccurate or incomplete. In many cases you can make changes to your account information yourself, as detailed in our [data change](#how-can-i-change-or-erase-data-about-me) section below.
+- **The right to erasure** – You have the right to request that Aragon Ventures erase your personal data, under certain conditions. Please see our section on [data erasure](#how-can-i-change-or-erase-data-about-me) for details.
 - **The right to restrict processing** – You have the right to request that Aragon Ventures restrict the processing of your personal data, under certain conditions.
-- **The right to object to processing** – You have the right to object to Aragon Ventures’s processing of your personal data, under certain conditions. More details on this processing can be found in our [automated decisions](https://web.archive.org/web/20200215071246/https://aragon.ventures/privacy/#gdpr-automated-decisions) section below.
+- **The right to object to processing** – You have the right to object to Aragon Ventures’s processing of your personal data, under certain conditions. More details on this processing can be found in our [automated decisions](#does-aragon-ventures-make-automated-decisions-about-me) section below.
 - **The right to data portability** – You have the right to request that Aragon Ventures transfer the data that we have collected to another organization, or directly to you, under certain conditions.
 
 ## Where can I access data about me?
@@ -122,6 +122,7 @@ Apart from making data available to the customer that pays Aragon Ventures to ho
 
 | Service          | Privacy Notice                                         | Description                                                                                           |
 |------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| BunnyCDN (SI)    | https://bunnycdn.com/privacy                           | Provides a content delivery network.                             |
 | Cloudflare (US)  | https://www.cloudflare.com/privacypolicy/              | Provides a content delivery network, DNS services, and visitor analytics.                             |
 | Coinbase (US)    | https://www.coinbase.com/legal/privacy                 | Payment Processing.                                                                                   |
 | Hetzner (DE)     | https://www.hetzner.com/rechtliches/datenschutz/       | Provides servers and services, in service regions around the world, to host and backup some services. |
