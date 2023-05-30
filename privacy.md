@@ -143,21 +143,22 @@ You can send questions and complaints to:
 Aragon Ventures LLC  
 privacy@aragon.ventures
 
-You can also write to us at:
+You may also write to us at:
 
 Aragon Ventures LLC  
-PO Box 201  
-Anoka, MN 55303  
+5123 W 98th St
+#1399
+Minneapolis MN 55437
 United States
 
 For complaints under GDPR more generally, European Union users may lodge complaints with their local data protection supervisory authorities.
 
 ## How can I find out about changes?
 
-This version of Aragon Ventures’s privacy questions and answers took effect August 29th, 2020.
+This version of Aragon Ventures’s privacy questions and answers took effect May 29th, 2023.
 
 Aragon Ventures will post the next version at [https://aragon.ventures/privacy](https://aragon.ventures/privacy). Aragon Ventures may change how it announces changes in future versions of this document.
 
 In the meantime, Aragon Ventures may update its contact information at any time without announcing a change. Please refer to [https://aragon.ventures/privacy](https://aragon.ventures/privacy) for the latest contact information at any time.
 
-&copy; 2020 Aragon Ventures LLC
+&copy; 2020 - 2023 Aragon Ventures LLC
